@@ -2,7 +2,7 @@
   <img src="https://example.com/your-profile-header.png" alt="Profile Header" width="100%"/>
 </div>
 
-<h1 align="center">👋 Hi there, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi there, I'm Vasudev Rathod!</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/vasudev-rathod-wolfinfinity" target="_blank">
@@ -51,12 +51,19 @@ I'm always eager to learn new technologies and contribute to exciting projects.
 Here are some of the projects I'm proud of. You can find more in my repositories!
 
 ### [Game Fortune Wheel & Slot Machine]
+
+##### Fortune Wheel 
+- A captivating Fortune Wheel game built entirely with Android Jetpack Compose. This demo showcases smooth animations, reactive UI updates, and custom drawing capabilities to deliver an engaging user experience where players can spin to win various outcomes. Perfect for demonstrating dynamic UI and state management in Compose.
+
+#### Slot Machine
+- An exciting Slot Machine game developed using Android Jetpack Compose. This project highlights advanced Compose features such as complex UI layouts, sequential animations for spinning reels, and robust state handling to simulate a classic slot machine experience. It's a strong example of creating interactive and visually rich applications with modern Android UI toolkit.
+
 | ![FortuneWheel](https://github.com/vasudevrathod/game_demo_compose/blob/wolfinfinity/github_assets/fortune_wheel_gif.gif) | ![SlotMachine](https://github.com/vasudevrathod/game_demo_compose/blob/wolfinfinity/github_assets/video_slot_machine_gif.gif) |
 | ---------------------------------------------------|----------------------------------------------------------|
 
 A brief description of Project 1, highlighting its purpose, key features, and technologies used (e.g., "A real-time chat application built with Kotlin and Firebase for Android, featuring secure messaging and media sharing.").
 
-[**View Project**](https://github.com/[YourUsername]/[Project1Repo]) | [**Live Demo/App Store**](https://example.com/project1-demo) (if applicable)
+[**View Project**](https://github.com/vasudevrathod/game_demo_compose)
 
 ### [Project Name 2]
 <div align="center">
@@ -72,8 +79,8 @@ A brief description of Project 2, highlighting its purpose, key features, and te
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vasudevrathod&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevrathod&theme=dark" alt="GitHub Streak Stats"/>
 </div>
 
 ---
