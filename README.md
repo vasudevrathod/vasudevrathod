@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://example.com/your-profile-header.png" alt="Profile Header" width="100%"/>
+ <img src="https://avatars.githubusercontent.com/u/vasudevrathod?v=4" alt = "Profile Header" width="150" height="150" />
 </div>
 
 <h1 align="center">👋 Hi there, I'm Vasudev Rathod!</h1>
