@@ -66,10 +66,6 @@ A brief description of Project 1, highlighting its purpose, key features, and te
 [**View Project**](https://github.com/vasudevrathod/game_demo_compose)
 
 ### [Safar Cab]
-<div align="center">
-  <img src="https://example.com/project2-screenshot.png" alt="Project 2 Screenshot" width="400"/>
-</div>
-
 SufarCab 🚖 — A cross-platform ride-hailing app built with Kotlin Multiplatform (KMP), inspired by Uber.  
 It offers seamless login, ride booking, wallet, and payment management features.
 
