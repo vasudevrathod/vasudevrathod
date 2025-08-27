@@ -65,14 +65,22 @@ A brief description of Project 1, highlighting its purpose, key features, and te
 
 [**View Project**](https://github.com/vasudevrathod/game_demo_compose)
 
-### [Project Name 2]
+### [Safar Cab]
 <div align="center">
   <img src="https://example.com/project2-screenshot.png" alt="Project 2 Screenshot" width="400"/>
 </div>
 
-A brief description of Project 2, highlighting its purpose, key features, and technologies used (e.g., "A cross-platform e-commerce app developed with Flutter/Dart, integrating with a custom backend and payment gateways.").
+SufarCab 🚖 — A cross-platform ride-hailing app built with Kotlin Multiplatform (KMP), inspired by Uber.  
+It offers seamless login, ride booking, wallet, and payment management features.
 
-[**View Project**](https://github.com/[YourUsername]/[Project2Repo]) | [**Live Demo/App Store**](https://example.com/project2-demo) (if applicable)
+#### Screen Shots
+| ![ScreenShot 1](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_1.png) | ![ScreenShot 2](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_2.png) | ![ScreenShot 3](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_3.png) | ![ScreenShot 4](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_4.png) |
+| ---------------------------------------------------|----------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+
+| ![ScreenShot 5](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_5.png) | ![ScreenShot 6](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_6.png) | ![ScreenShot 7](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_7.png) | ![ScreenShot 8](https://github.com/vasudevrathod/kmp_learn/blob/wolfinfinity/githubAssets/ss_8.png) |
+| ---------------------------------------------------|----------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------|
+
+[**View Project**](https://github.com/vasudevrathod/kmp_learn)
 
 ---
 
